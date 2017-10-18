@@ -1,7 +1,7 @@
 # Site
-title:          JBlog
-bio:            'Just a simple Jekyll theme'
-description:    "JBlog is a minimal, one column and blue jekyll theme for your blog."
+title:          Isuru's Blog
+bio:            'Meet Isuru Abeywardana'
+description:    "Software Engineer | FOSS Enthusiast | Blogger "
 picture:        'assets/img/profile.png'
 locale:         en_US
 url:            https://isuruAb.github.io
@@ -24,8 +24,8 @@ sass:
 # Social
 # if you don't have any of social below, comment the line.
 #email:
-twitter: username
-facebook: username
+twitter: isuruAb
+facebook: isuruAb
 #google:
   #plus: #username
   #analytics:
@@ -33,11 +33,11 @@ facebook: username
   #ad-client:
   #ad-slot:
 #bing-verify:
-github: username
-stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-linkedin: username
+github: isuruAb
+stackoverflow: 4516985/isuruab
+linkedin: isuruAb
 #xing: username
-instagram: username
+instagram: _isuruAb
 lastfm: username
 tumblr: username
 #pinterest: username
