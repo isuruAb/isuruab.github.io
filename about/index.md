@@ -13,7 +13,7 @@ Information Systems student at Sabaragamuwa University of Sri Lanka. Currently e
 * Former Secretary of SOCS (Socity of Computer Sciences) Sabaragamuwa University.
 * Developer at FOSSASIA.
 * Google Summer of Code intern at FOSSASIA.
-* Co-Founder ![windowsgeek.lk](www.windowsgeek.lk).
+* Co-Founder <a href="www.windowsgeek.lk" target="_blank"> windowsgeek.lk </a>.
 * Co-Founder/ COO Xicigny pvt.ltd.
 * Docker Campus Ambassador of Sabaragamuwa University.
 * Microsoft Student Partner.
