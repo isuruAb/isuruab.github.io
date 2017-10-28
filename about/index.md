@@ -1,22 +1,37 @@
 ---
 layout: page
-title: About the Theme
+title: About Isuru Abeywardana
 tags: [about, Jekyll, theme, JBlog]
 date: 2016-03-21
 ---
 
-![jekyll Image](http://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2015/02/1424055625jekyll.png)
+![Image of Isuru](https://isuruab.github.io/assets/img/profile.jpg)
 {: .image-pull-right}
 
-<center><b>JBlog</b> is a simple jekyll theme.</center>
+Information Systems student at Sabaragamuwa University of Sri Lanka. Currently employed as a Freelancer Front End Developer. working with web technologies such as ReactJS, WordPress, Bootstrap, MaterialUI and Git. Most comfortable with JavaScript, although had previous encounters with C#, Angular and Go.
 
-## About
+Former Secretary of SOCS (Socity of Computer Sciences) Sabaragamuwa University.
+Developer at FOSSASIA.
+Google Summer of Code intern at FOSSASIA.
+Co-Founder ![windowsgeek.lk](www.windowsgeek.lk).
+Co-Founder/ COO Xicigny pvt.ltd.
+Docker Campus Ambassador of Sabaragamuwa University.
+Microsoft Student Partner.
+Founder of Mozilla Campus Club of Sabaragamuwa University.
+Co-Founder of IEEE Student Branch of Sabaragamuwa University.
+Assistant Program Manager - Technology Team Member at SL2College 
+HackerRank Campus Ambassador of Sabaragamuwa University.
 
-I have used this theme in my own php and ruby blogs. And there are some shortcomings. If something looks extremely ugly and you can't resist to fix it, just send me a PR. I will be grateful.
+
+Interested in self development, love minimalist design and simplicity. Life philosophy of choice is Stoicism.
 
 
-If you like this theme or using it, please give a **star** for motivation.
+### Skills
 
-You want to **use it?**      
-
-[Install JBlog](https://github.com/alperenbozkurt/JBlog){: .btn .btn-info}
+* Javascript - ReactJS - NodeJS
+* Material UI
+* Bootstrap
+* WordPress Theme Development
+* Git - GitHub
+* Docker
+* Travis-CI
