@@ -5,7 +5,7 @@ tags: [about, Jekyll, theme, JBlog]
 date: 2016-03-21
 ---
 
-![Image of Isuru](https://isuruab.github.io/assets/img/profile.jpg)
+![Image of Isuru](https://media-exp2.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAYaAAAAJDhhZjUxOTNmLThiZTctNDA5OC1hNGY1LWUxYWVkZDVhYjEwOA.jpg)
 {: .image-pull-right}
 
 Information Systems student at Sabaragamuwa University of Sri Lanka. Currently employed as a Freelancer Front End Developer. working with web technologies such as ReactJS, WordPress, Bootstrap, MaterialUI and Git. Most comfortable with JavaScript, although had previous encounters with C#, Angular and Go.
