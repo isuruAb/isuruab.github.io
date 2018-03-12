@@ -10,6 +10,7 @@ date: 2016-03-21
 
 Information Systems student at Sabaragamuwa University of Sri Lanka. Currently employed as a Freelancer Front End Developer. working with web technologies such as ReactJS, WordPress, Bootstrap, MaterialUI and Git. Most comfortable with JavaScript, although had previous encounters with C#, Angular and Go.
 
+* Fist GitHub Campus Expert of Sri Lanka
 * Former Secretary of SOCS (Socity of Computer Sciences) Sabaragamuwa University.
 * Developer at FOSSASIA.
 * Google Summer of Code intern at FOSSASIA.
@@ -17,7 +18,6 @@ Information Systems student at Sabaragamuwa University of Sri Lanka. Currently e
 * Co-Founder/ COO Xicigny pvt.ltd.
 * Docker Campus Ambassador of Sabaragamuwa University.
 * Microsoft Student Partner.
-* Founder of Mozilla Campus Club of Sabaragamuwa University.
 * Co-Founder of IEEE Student Branch of Sabaragamuwa University.
 * Assistant Program Manager - Technology Team Member at SL2College 
 * HackerRank Campus Ambassador of Sabaragamuwa University.
